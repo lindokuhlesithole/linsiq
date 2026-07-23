@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.stamp_action_identity() FROM PUBLIC, anon, authenticated;
